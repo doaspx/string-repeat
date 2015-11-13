@@ -1,5 +1,5 @@
 {
-  "name": "string-repeat",
+  "name": "string_repeat",
   "version": "1.2.1",
   "description": "string repeat",
   "main": "index.js",
