@@ -1,0 +1,25 @@
+{
+  "name": "string-repeat",
+  "version": "1.2.1",
+  "description": "string repeat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doaspx/string-repeat.git"
+  },
+  "keywords": [
+    "string",
+    "string-repeat",
+    "repeat",
+    "repeat-string"
+  ],
+  "author": "老猫",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doaspx/string-repeat/issues"
+  },
+  "homepage": "https://github.com/doaspx/string-repeat#readme"
+}
