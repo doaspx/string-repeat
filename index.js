@@ -12,8 +12,8 @@ module.exports = (function() {
         return function(input, times) {
             var inputType = typeof input;
 
-            if(inputType !== 'string') throw new TypeError('Expected a string, saw ' + inputType);
-            if(times < 0) throw new TypeError('Expected a positive integer');
+            if(inputType !== 'string') return '';
+            if(times < 0) return '';
 
             var ret = '';
             if(times === 1) return input;
